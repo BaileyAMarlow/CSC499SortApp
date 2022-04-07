@@ -1,4 +1,5 @@
 README for CSC499 HW1 SORTING USING COMMAND LINE
+This application shall take in a list of words and return them sorted based on the selected sort version and return a sorted list.
 
 Begin by downloading SortMe.txt and HWCSC499.py files. Next, open Ubuntu Terminal and run the following command:
 
