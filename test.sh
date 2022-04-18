@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+
 check_sort=0
 # Test Normal Sort
 python3 CSC499HW1.py SortMe.txt normal > normsort.txt
